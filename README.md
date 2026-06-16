@@ -3,10 +3,10 @@
 Due to GitHub file size limitations, the Power BI (.pbix) file is available here:
 
 🔗 Download PBIX File:
-https://drive.google.com/file/d/1qq3gcAahkkykPAd_1Y5X0x_5XA6a1Wrb/view?usp=sharing
+https://drive.google.com/file/d/1w8yoyhnBSX3j1CsIAmyLLlQmnh1HSiiF/view?usp=drive_link
 
 ## Dataset
-https://drive.google.com/file/d/17QWHJ_7wk7cmJEjAmst0bsfggByCsOjH/view?usp=sharing
+https://drive.google.com/file/d/17QWHJ_7wk7cmJEjAmst0bsfggByCsOjH/view?usp=drive_link
 
 # 🏦 Bank Customer Transaction Analysis Dashboard
 ## 📌 Project Overview
